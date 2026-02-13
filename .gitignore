@@ -1,0 +1,14 @@
+# Terraform
+terraform.tfvars
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# Secrets
+.env
+*.pem
+*.key
+
+# OS / Editor
+.DS_Store
+.vscode/
